@@ -67,7 +67,7 @@ export default function DashboardMockup() {
         </div>
         <div className="flex-1 flex justify-center">
           <div className="bg-white/[0.05] border border-white/[0.06] rounded-md px-3 py-1 text-[11px] text-white/25 w-44 text-center">
-            app.nrtur.com
+            app.nrtur.io
           </div>
         </div>
       </div>
